@@ -5,3 +5,5 @@
 ✍️ I'm in the third period of systems analysis and development, and I also take a course in Python</a>
 📭 
 <a href = "mailto:jahjahzinha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+![Snake animation]
+(https://github.com/jah-manoel/jah-manoel/blob/output/github-contribution-grid-snake.svg)
